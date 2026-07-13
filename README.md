@@ -135,9 +135,9 @@ The project separates the backend and frontend completely, allowing each service
 ## Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/110-agents.git
+git clone https://github.com/mathurojus/IBM.git
 
-cd 110-agents
+cd IBM
 ```
 
 ---
