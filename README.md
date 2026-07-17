@@ -6,6 +6,14 @@ The application provides a clean dashboard for running AI workflows, managing ag
 
 ---
 
+##  Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/7-TsbxjcM6U)
+
+*Click the image above to watch the full demo on YouTube*
+
+---
+
 # Table of Contents
 
 - Overview
